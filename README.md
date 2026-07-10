@@ -1,4 +1,4 @@
-# 🩺🥇VitaGuard AI
+# 🩺🥇Tanara AI
 Predict Earlier. Act Faster. Save Lives.
 ## An Intelligent Public Health Early-Warning System for ASEAN
 
@@ -16,9 +16,9 @@ Despite improvements in healthcare delivery, many communities still face prevent
 
 Traditional public health systems often respond after problems have already escalated.
 
-**🥇VitaGuard AI changes this approach.**
+**🥇Tanara AI changes this approach.**
 
-🥇 VitaGuard AI is an AI-powered public health intelligence platform that helps identify health vulnerabilities early, predict future risk levels, and recommend targeted interventions before health challenges become crises.
+🥇Tanara AI is an AI-powered public health intelligence platform that helps identify health vulnerabilities early, predict future risk levels, and recommend targeted interventions before health challenges become crises.
 
 
 ---
@@ -34,7 +34,7 @@ Across ASEAN's 660+ million population, unequal health progress and fragmented p
 
 # 💡 Solution
 
-HealthPulse AI transforms multiple health indicators into actionable intelligence for decision-makers.
+🥇Tanara AI transforms multiple health indicators into actionable intelligence for decision-makers.
 
 The system:
 
@@ -101,7 +101,7 @@ Output:
 
 ## 🎯 Risk–Readiness Priority Matrix
 
-HealthPulse AI combines risk and readiness scores to classify intervention priorities:
+🥇Tanara AI combines risk and readiness scores to classify intervention priorities:
 
 
 | Risk | Readiness | Priority |
@@ -397,7 +397,7 @@ Identifying vulnerable populations and improving resource prioritization.
 # ❤️ Inspiration
 
 
-HealthPulse AI was inspired by a personal experience within our team.
+🥇Tanara AI was inspired by a personal experience within our team.
 
 One teammate lost his father to tuberculosis, reminding us that behind every health statistic is a real person, family, and community.
 
@@ -436,13 +436,13 @@ to build healthier and more resilient communities.
 ---
 
 
-# 🩺🥇VitaGuard AI
+# 🩺🥇Tanara AI
 
 ### Predict Earlier. Act Faster. Save Lives.
 
 
 
-The final solution was deployed as an interactive Streamlit application called 🥇 VitaGuard AI. 
+The final solution was deployed as an interactive Streamlit application called 🥇Tanara AI 
 
 The app allows users to explore health risk trends, compare health system readiness, identify emergency-priority countries, and generate next-year risk predictions. 
 
