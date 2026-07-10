@@ -1,5 +1,5 @@
 # ============================================================
-# HealthPulse AI
+# 🥇VitaGuard AI
 # 10Alytics Global Hackathon 2026
 # SDG 3: ASEAN Public Health Early-Warning System
 # ============================================================
@@ -18,7 +18,7 @@ import streamlit as st
 # ============================================================
 
 st.set_page_config(
-    page_title="HealthPulse AI",
+    page_title="🥇VitaGuard AI",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -447,10 +447,10 @@ def render_hero() -> None:
         '<div class="hero-badge">'
         '10Alytics Global Hackathon 2026 · SDG 3'
         '</div>'
-        '<h1>HealthPulse AI</h1>'
+        '<h1>🥇VitaGuard AI</h1>'
         '<p>'
         'An AI-powered public health early-warning and response system for ASEAN. '
-        'HealthPulse AI combines health risk scoring, system readiness, machine '
+        '🥇VitaGuard AI:combines health risk scoring, system readiness, machine '
         'learning and actionable recommendations to identify where intervention '
         'is needed before a health crisis escalates.'
         '</p>'
@@ -973,7 +973,7 @@ with st.sidebar:
 
     st.divider()
 
-    st.caption("HealthPulse AI")
+    st.caption("🥇VitaGuard AI")
     st.caption("SDG 3 · ASEAN Public Health")
 
 
@@ -2140,7 +2140,7 @@ elif page == "Methodology":
     section_header(
         "Methodology",
         (
-            "How HealthPulse AI converts fragmented "
+            "How 🥇VitaGuard AI converts fragmented "
             "indicators into decision intelligence."
         ),
     )
