@@ -1,0 +1,11 @@
+country,year,health_risk_score,health_risk_level,readiness_score,readiness_level,priority_category,predicted_risk_level,prob_low,prob_medium,prob_high
+Cambodia,2014,34.85,High,37.88,Low,Emergency Priority,High,0.0,0.093,0.907
+Lao PDR,2014,37.14,High,32.56,Low,Emergency Priority,High,0.0,0.152,0.848
+Myanmar,2014,22.7,Medium,42.63,Medium,Moderate Priority,Medium,0.003,0.888,0.11
+Indonesia,2014,21.38,Medium,47.11,Medium,Moderate Priority,Medium,0.008,0.936,0.056
+Philippines,2014,17.88,Medium,58.8,High,Controlled Risk,Medium,0.119,0.877,0.004
+Viet Nam,2014,12.82,Medium,57.93,High,Controlled Risk,Medium,0.255,0.743,0.002
+Thailand,2014,5.57,Low,58.25,High,Stable / Resilient,Low,0.623,0.376,0.001
+Brunei Darussalam,2014,4.92,Low,73.92,High,Stable / Resilient,Low,0.994,0.006,0.0
+Singapore,2014,4.81,Low,81.04,High,Stable / Resilient,Low,0.973,0.027,0.0
+Malaysia,2014,3.82,Low,61.09,High,Stable / Resilient,Low,0.922,0.078,0.0

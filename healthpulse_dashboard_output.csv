@@ -1,0 +1,11 @@
+country,year,health_risk_score,health_risk_level,readiness_score,readiness_level,priority_category,predicted_risk_level,prob_low,prob_medium,prob_high
+Cambodia,2025,30.2,High,40.91,Low,Emergency Priority,High,0.0,0.048,0.952
+Lao PDR,2025,23.63,High,41.28,Low,Emergency Priority,High,0.0,0.093,0.907
+Myanmar,2025,16.87,Medium,51.18,Medium,Moderate Priority,Medium,0.012,0.963,0.025
+Indonesia,2025,18.91,Medium,55.36,Medium,Moderate Priority,Medium,0.001,0.975,0.024
+Philippines,2025,17.96,Medium,63.87,High,Controlled Risk,Medium,0.004,0.992,0.003
+Viet Nam,2025,11.94,Medium,55.64,Medium,Moderate Priority,Medium,0.162,0.837,0.001
+Thailand,2025,8.19,Medium,62.87,High,Controlled Risk,Medium,0.467,0.532,0.001
+Brunei Darussalam,2025,8.35,Medium,73.45,High,Controlled Risk,Low,0.689,0.311,0.0
+Malaysia,2025,6.54,Low,52.95,Medium,Stable but Needs Support,Low,0.931,0.069,0.0
+Singapore,2025,6.35,Low,87.35,High,Stable / Resilient,Low,0.931,0.069,0.0

@@ -1,0 +1,145 @@
+country,year,health_risk_score,health_risk_level,readiness_score,readiness_level,priority_category,predicted_risk_level,prob_low,prob_medium,prob_high,ai_summary
+Cambodia,2025,30.197605825305455,High,40.910047958825594,Low,Emergency Priority,High,5.891420318976184e-06,0.04770113122011628,0.9522929773595649,"Country: Cambodia
+Year assessed: 2025
+Predicted next-year health risk level: High
+
+Main risk signals:
+1. tb prevalence: tb_prevalence is above the ASEAN median.
+2. malaria prevalence: malaria_prevalence is above the ASEAN median.
+3. government health expenditure: government_health_expenditure is below the ASEAN median.
+4. maternal mortality rate: maternal_mortality_rate is above the ASEAN median.
+5. infant mortality rate: infant_mortality_rate is above the ASEAN median.
+
+Recommended public health actions:
+1. Strengthen child health services, expand immunization outreach, and improve early childhood disease screening.
+2. Prioritize maternal health services, emergency obstetric care, and deployment of skilled birth attendants.
+3. Expand malaria surveillance, vector control, rapid testing, and community-level prevention campaigns.
+4. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+5. Increase targeted public health financing toward high-burden disease areas and frontline healthcare delivery."
+Lao PDR,2025,23.628189811068857,High,41.28299211233354,Low,Emergency Priority,High,9.936509001828651e-05,0.09273352432369018,0.9071671105862915,"Country: Lao PDR
+Year assessed: 2025
+Predicted next-year health risk level: High
+
+Main risk signals:
+1. government health expenditure: government_health_expenditure is below the ASEAN median.
+2. maternal mortality rate: maternal_mortality_rate is above the ASEAN median.
+3. under 5 mortality rate: under_5_mortality_rate is above the ASEAN median.
+4. infant mortality rate: infant_mortality_rate is above the ASEAN median.
+5. malaria prevalence: malaria_prevalence is above the ASEAN median.
+
+Recommended public health actions:
+1. Strengthen child health services, expand immunization outreach, and improve early childhood disease screening.
+2. Prioritize maternal health services, emergency obstetric care, and deployment of skilled birth attendants.
+3. Expand malaria surveillance, vector control, rapid testing, and community-level prevention campaigns.
+4. Increase targeted public health financing toward high-burden disease areas and frontline healthcare delivery."
+Brunei Darussalam,2025,8.347095729025494,Medium,73.44775984223712,High,Controlled Risk,Low,0.6885862502497578,0.31127950877807453,0.00013424097216759696,"Country: Brunei Darussalam
+Year assessed: 2025
+Predicted next-year health risk level: Low
+
+Main risk signals:
+1. government health expenditure: government_health_expenditure is below the ASEAN median.
+2. tb prevalence: tb_prevalence is above the ASEAN median.
+3. malaria prevalence: malaria_prevalence is above the ASEAN median.
+
+Recommended public health actions:
+1. Expand malaria surveillance, vector control, rapid testing, and community-level prevention campaigns.
+2. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+3. Increase targeted public health financing toward high-burden disease areas and frontline healthcare delivery."
+Malaysia,2025,6.541353819715725,Low,52.94805358807031,Medium,Stable but Needs Support,Low,0.9307447883872348,0.06914679983945501,0.00010841177331005948,"Country: Malaysia
+Year assessed: 2025
+Predicted next-year health risk level: Low
+
+Main risk signals:
+1. government health expenditure: government_health_expenditure is below the ASEAN median.
+2. dpt immunization: dpt_immunization is below the ASEAN median.
+3. measles immunization: measles_immunization is below the ASEAN median.
+
+Recommended public health actions:
+1. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems.
+2. Increase targeted public health financing toward high-burden disease areas and frontline healthcare delivery."
+Singapore,2025,6.347575427207043,Low,87.35194938130402,High,Stable / Resilient,Low,0.931334233635715,0.0686654761771018,2.901871831256851e-07,"Country: Singapore
+Year assessed: 2025
+Predicted next-year health risk level: Low
+
+Main risk signals:
+1. undernourished population: undernourished_population is above the ASEAN median.
+2. measles immunization: measles_immunization is below the ASEAN median.
+
+Recommended public health actions:
+1. Integrate nutrition support with maternal and child health programs, especially in vulnerable communities.
+2. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems."
+Myanmar,2025,16.873685546317656,Medium,51.17595284015063,Medium,Moderate Priority,Medium,0.012050673836575357,0.9626577226563892,0.02529160350703532,"Country: Myanmar
+Year assessed: 2025
+Predicted next-year health risk level: Medium
+
+Main risk signals:
+1. tb prevalence: tb_prevalence is above the ASEAN median.
+2. maternal mortality rate: maternal_mortality_rate is above the ASEAN median.
+3. measles immunization: measles_immunization is below the ASEAN median.
+4. infant mortality rate: infant_mortality_rate is above the ASEAN median.
+5. nurses midwives density: nurses_midwives_density is below the ASEAN median.
+
+Recommended public health actions:
+1. Strengthen child health services, expand immunization outreach, and improve early childhood disease screening.
+2. Prioritize maternal health services, emergency obstetric care, and deployment of skilled birth attendants.
+3. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+4. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems.
+5. Increase nurses and midwives deployment, especially in underserved and rural health facilities."
+Indonesia,2025,18.910495907553205,Medium,55.35683544605059,Medium,Moderate Priority,Medium,0.0006528051848014898,0.9753667255827901,0.023980469232408264,"Country: Indonesia
+Year assessed: 2025
+Predicted next-year health risk level: Medium
+
+Main risk signals:
+1. maternal mortality rate: maternal_mortality_rate is above the ASEAN median.
+2. tb prevalence: tb_prevalence is above the ASEAN median.
+3. under 5 mortality rate: under_5_mortality_rate is above the ASEAN median.
+4. measles immunization: measles_immunization is below the ASEAN median.
+5. dpt immunization: dpt_immunization is below the ASEAN median.
+
+Recommended public health actions:
+1. Strengthen child health services, expand immunization outreach, and improve early childhood disease screening.
+2. Prioritize maternal health services, emergency obstetric care, and deployment of skilled birth attendants.
+3. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+4. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems."
+Philippines,2025,17.96023233221089,Medium,63.8747752232596,High,Controlled Risk,Medium,0.004467721553608503,0.992129960418426,0.0034023180279654066,"Country: Philippines
+Year assessed: 2025
+Predicted next-year health risk level: Medium
+
+Main risk signals:
+1. tb prevalence: tb_prevalence is above the ASEAN median.
+2. maternal mortality rate: maternal_mortality_rate is above the ASEAN median.
+3. undernourished population: undernourished_population is above the ASEAN median.
+4. dpt immunization: dpt_immunization is below the ASEAN median.
+
+Recommended public health actions:
+1. Prioritize maternal health services, emergency obstetric care, and deployment of skilled birth attendants.
+2. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+3. Integrate nutrition support with maternal and child health programs, especially in vulnerable communities.
+4. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems."
+Viet Nam,2025,11.941836409662184,Medium,55.64091688061392,Medium,Moderate Priority,Medium,0.16208263020043298,0.8367377546250332,0.0011796151745337986,"Country: Viet Nam
+Year assessed: 2025
+Predicted next-year health risk level: Medium
+
+Main risk signals:
+1. tb prevalence: tb_prevalence is above the ASEAN median.
+2. measles immunization: measles_immunization is below the ASEAN median.
+3. malaria prevalence: malaria_prevalence is above the ASEAN median.
+4. dpt immunization: dpt_immunization is below the ASEAN median.
+5. nurses midwives density: nurses_midwives_density is below the ASEAN median.
+
+Recommended public health actions:
+1. Expand malaria surveillance, vector control, rapid testing, and community-level prevention campaigns.
+2. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+3. Launch targeted vaccine catch-up campaigns and strengthen routine immunization systems.
+4. Increase nurses and midwives deployment, especially in underserved and rural health facilities."
+Thailand,2025,8.192858339387394,Medium,62.87161198278673,High,Controlled Risk,Medium,0.46741366182832944,0.531994459877764,0.0005918782939065846,"Country: Thailand
+Year assessed: 2025
+Predicted next-year health risk level: Medium
+
+Main risk signals:
+1. tb prevalence: tb_prevalence is above the ASEAN median.
+2. physicians density: physicians_density is below the ASEAN median.
+
+Recommended public health actions:
+1. Scale up TB screening, case detection, treatment adherence support, and community health monitoring.
+2. Improve physician availability through mobile clinics, telemedicine support, and rural service incentives."
