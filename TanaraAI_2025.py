@@ -1832,7 +1832,7 @@ elif page == "AI Prediction Copilot":
                 metric_card(
                     "Predicted risk",
                     predicted_level,
-                    "Following-year classification",
+                    f"Forecast year: {selected_year + 1}",
                 )
 
             st.markdown(
@@ -2237,7 +2237,7 @@ clinical or governmental judgement.
         6,
         "Data Limitation",
         """
-The dataset covers **10 ASEAN countries from 2004 to 2025**. The original cleaned data covered 2004–2014, while 2015–2025 values are projected estimates for prototype analysis.
+The dataset covers **10 ASEAN countries from 2004 to 2025**. The original cleaned data covered 2004–2014, while 2015–2025 values are sourced from World Bank and WHO database to enhance analysis.
 Some missing values were estimated using within-country interpolation and
 median imputation. The `underweight_children` variable was excluded from
 the final model because of its high proportion of missing observations.
