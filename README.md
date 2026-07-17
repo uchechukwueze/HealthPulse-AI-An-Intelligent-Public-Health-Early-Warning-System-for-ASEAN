@@ -121,7 +121,7 @@ This helps determine where resources should go first.
 # 🤖 Machine Learning Early-Warning Model
 
 
-HealthPulse AI predicts the following year's health risk level using current-year indicators.
+🥇Tanara AI predicts the following year's health risk level using current-year indicators.
 
 
 Example:
@@ -161,7 +161,7 @@ Because in public health:
 # 🧠 AI Recommendation Engine
 
 
-Beyond prediction, HealthPulse AI explains **why** a country is vulnerable.
+Beyond prediction, 🥇Tanara AI explains **why** a country is vulnerable.
 
 
 The recommendation layer:
